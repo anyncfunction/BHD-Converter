@@ -20,9 +20,6 @@ This is a graphical user interface (GUI) application built with Python's `tkinte
 - Python 3.x
 - `tkinter` (comes pre-installed with Python)
 
-## Screenshot
-
-![Base Converter Screenshot](screenshot.png) *(Add a screenshot of the application here)*
 
 ## How to Run
 
